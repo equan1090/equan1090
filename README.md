@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 I am Eric Quan
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=equan1090)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **equan1090/equan1090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=equan1090)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on ...
