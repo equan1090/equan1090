@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Eric Quan
+I am Eric Quan. I do both front end and backend development. I really enjoy learning new technologies so that I can apply them to my own work
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=equan1090)](https://github.com/anuraghazra/github-readme-stats)
 <!--
